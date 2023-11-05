@@ -2,6 +2,6 @@
 main : web.3.social
 #purpose : fit at "w3";
 #deploy : as infra<rpc uni.sofi;
-        <decentra.social ??.jepg>
+        <decentra.social>
 # contract,
   <test 0x7299gai7291910er7292206t4gr282929bc>
